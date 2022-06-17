@@ -1,2 +1,3 @@
-# quine.github.io
-Quine FOSS
+# recipes
+
+Quine FOSS Recipe Repo: https://quinefoss.github.io/recipes/
